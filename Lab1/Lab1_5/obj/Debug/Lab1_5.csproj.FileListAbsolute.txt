@@ -1,0 +1,7 @@
+C:\facultation\II_Labs\II_Lab_2024\Lab1\Lab1_5\bin\Debug\Lab1_5.exe.config
+C:\facultation\II_Labs\II_Lab_2024\Lab1\Lab1_5\bin\Debug\Lab1_5.exe
+C:\facultation\II_Labs\II_Lab_2024\Lab1\Lab1_5\bin\Debug\Lab1_5.pdb
+C:\facultation\II_Labs\II_Lab_2024\Lab1\Lab1_5\obj\Debug\Lab1_5.csproj.AssemblyReference.cache
+C:\facultation\II_Labs\II_Lab_2024\Lab1\Lab1_5\obj\Debug\Lab1_5.csproj.CoreCompileInputs.cache
+C:\facultation\II_Labs\II_Lab_2024\Lab1\Lab1_5\obj\Debug\Lab1_5.exe
+C:\facultation\II_Labs\II_Lab_2024\Lab1\Lab1_5\obj\Debug\Lab1_5.pdb
