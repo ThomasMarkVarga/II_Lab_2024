@@ -1,0 +1,8 @@
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab1\Lab1_3\bin\Debug\Lab1_3.exe.config
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab1\Lab1_3\bin\Debug\Lab1_3.exe
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab1\Lab1_3\bin\Debug\Lab1_3.pdb
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab1\Lab1_3\obj\Debug\Lab1_3.csproj.AssemblyReference.cache
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab1\Lab1_3\obj\Debug\Lab1_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab1\Lab1_3\obj\Debug\Lab1_3.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab1\Lab1_3\obj\Debug\Lab1_3.exe
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab1\Lab1_3\obj\Debug\Lab1_3.pdb
