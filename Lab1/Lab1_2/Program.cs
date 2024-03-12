@@ -51,7 +51,7 @@ namespace Lab1
             Console.ReadKey();
         }
 
-        class Calculator
+        class Calcuslator
         {
             float a = 0;
             float b = 0;

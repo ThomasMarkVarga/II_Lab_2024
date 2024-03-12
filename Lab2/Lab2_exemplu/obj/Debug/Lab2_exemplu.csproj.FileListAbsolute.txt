@@ -1,0 +1,12 @@
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab2\Lab2_exemplu\bin\Debug\Lab2_exemplu.exe.config
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab2\Lab2_exemplu\bin\Debug\Lab2_exemplu.exe
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab2\Lab2_exemplu\bin\Debug\Lab2_exemplu.pdb
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab2\Lab2_exemplu\obj\Debug\Lab2_exemplu.csproj.AssemblyReference.cache
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab2\Lab2_exemplu\obj\Debug\Lab2_exemplu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab2\Lab2_exemplu\obj\Debug\Lab2_exemplu.Form1.resources
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab2\Lab2_exemplu\obj\Debug\Lab2_exemplu.Properties.Resources.resources
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab2\Lab2_exemplu\obj\Debug\Lab2_exemplu.csproj.GenerateResource.cache
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab2\Lab2_exemplu\obj\Debug\Lab2_exemplu.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab2\Lab2_exemplu\obj\Debug\Lab2_exemplu.exe
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab2\Lab2_exemplu\obj\Debug\Lab2_exemplu.pdb
+C:\Users\Tommy\Desktop\Facultate\An 3\sem2\Industrial Informatics\Labs\II_Lab_2024\Lab2\Lab2_exemplu\obj\Debug\Lab2_exemplu.Form2.resources
